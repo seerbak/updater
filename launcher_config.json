@@ -9,9 +9,9 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.00.2000",
-	"launcherVersion": "1.2",
-	"replaceFolders": true,
+	"clientVersion": "15.00.13560",
+	"launcherVersion": "1.0",
+	"replaceFolders": false,
 	"replaceFolderName": [
 		{
 			"name": "assets"
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl": "https://github.com/seerbak/updater/releases/download/1.0/Chilenosot.zip",
+	"newClientUrl" : "https://github.com/seerbak/updater/releases/download/1.0/Chilenosot.zip",
 	"clientExecutable": "cliente.exe"
 }
