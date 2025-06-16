@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl": "http://localhost/cliente/ztibiaa.zip",
-	"clientExecutable": "clienteztibia.exe"
+	"newClientUrl": "https://github.com/seerbak/updater/releases/download/1.0/Chilenosot.zip",
+	"clientExecutable": "cliente.exe"
 }
